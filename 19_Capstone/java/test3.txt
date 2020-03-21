@@ -1,0 +1,4 @@
+A2|Stackers|1.45|Chip
+B1|Moonpie|1.80|Candy
+C3|Mountain Melter|1.50|Drink
+D2|Little League Chew|0.95|Gum

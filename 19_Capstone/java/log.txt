@@ -1,0 +1,53 @@
+
+02/09/2020	08:03:42 PM	FEED MONEY: $1.00		Balance: $1.00
+02/09/2020	08:03:44 PM	FEED MONEY: $2.00		Balance: $3.00
+02/09/2020	08:03:47 PM	FEED MONEY: $5.00		Balance: $8.00
+02/09/2020	08:03:49 PM	FEED MONEY: $10.00		Balance: $18.00
+02/09/2020	08:03:52 PM	FEED MONEY: $20.00		Balance: $38.00
+02/09/2020	08:03:38 PM	Potato Crisps       A1 $38.00 	Balance: $34.95
+02/09/2020	08:03:38 PM	Stackers            A2 $34.95 	Balance: $33.50
+02/09/2020	08:03:38 PM	Grain Waves         A3 $33.50 	Balance: $30.75
+02/09/2020	08:03:38 PM	Cloud Popcorn       A4 $30.75 	Balance: $27.10
+02/09/2020	08:03:38 PM	Moonpie             B1 $27.10 	Balance: $25.30
+02/09/2020	08:03:38 PM	Cowtales            B2 $25.30 	Balance: $23.80
+02/09/2020	08:03:38 PM	Wonka Bar           B3 $23.80 	Balance: $22.30
+02/09/2020	08:03:38 PM	Crunchie            B4 $22.30 	Balance: $20.55
+02/09/2020	08:03:38 PM	Cola                C1 $20.55 	Balance: $19.30
+02/09/2020	08:03:38 PM	Dr. Salt            C2 $19.30 	Balance: $17.80
+02/09/2020	08:03:38 PM	Mountain Melter     C3 $17.80 	Balance: $16.30
+02/09/2020	08:03:38 PM	Heavy               C4 $16.30 	Balance: $14.80
+02/09/2020	08:03:38 PM	U-Chews             D1 $14.80 	Balance: $13.95
+02/09/2020	08:03:38 PM	Little League Chew  D2 $13.95 	Balance: $13.00
+02/09/2020	08:03:38 PM	Chiclets            D3 $13.00 	Balance: $12.25
+02/09/2020	08:03:38 PM	Triplemint          D4 $12.25 	Balance: $11.50
+02/09/2020	08:04:56 PM	GIVE CHANGE: $11.50		Balance: $0.00
+02/09/2020	08:56:58 PM	FEED MONEY: $5.00		Balance: $5.00
+02/09/2020	09:00:30 PM	GIVE CHANGE: $5.00		Balance: $0.00
+02/09/2020	09:00:41 PM	FEED MONEY: $5.00		Balance: $5.00
+02/09/2020	09:00:36 PM	Chiclets            D3 $5.00  	Balance: $4.25 
+02/09/2020	09:01:02 PM	GIVE CHANGE: $4.25		Balance: $0.00
+02/10/2020	08:47:14 AM	FEED MONEY: $5.00		Balance: $5.00
+02/10/2020	08:47:14 AM	FEED MONEY: $1.00		Balance: $1.00
+02/10/2020	08:47:14 AM	FEED MONEY: $2.00		Balance: $3.00
+02/10/2020	08:47:14 AM	FEED MONEY: $5.00		Balance: $8.00
+02/10/2020	08:47:14 AM	FEED MONEY: $10.00		Balance: $18.00
+02/10/2020	08:47:14 AM	FEED MONEY: $1.00		Balance: $1.00
+02/10/2020	08:47:14 AM	FEED MONEY: $1.00		Balance: $2.00
+02/10/2020	08:47:14 AM	FEED MONEY: $1.00		Balance: $3.00
+02/10/2020	08:47:14 AM	FEED MONEY: $1.00		Balance: $1.00
+02/10/2020	08:47:14 AM	FEED MONEY: $2.00		Balance: $3.00
+02/10/2020	08:47:14 AM	FEED MONEY: $5.00		Balance: $8.00
+02/10/2020	08:47:14 AM	FEED MONEY: $10.00		Balance: $18.00
+02/10/2020	08:47:14 AM	FEED MONEY: $20.00		Balance: $38.00
+02/10/2020	08:47:14 AM	FEED MONEY: $1.00		Balance: $1.00
+02/10/2020	08:47:14 AM	FEED MONEY: $2.00		Balance: $3.00
+02/10/2020	08:47:14 AM	FEED MONEY: $5.00		Balance: $8.00
+02/10/2020	08:47:14 AM	FEED MONEY: $5.00		Balance: $5.00
+02/10/2020	08:47:14 AM	FEED MONEY: $5.00		Balance: $10.00
+02/10/2020	08:47:41 AM	GIVE CHANGE: $1.45		Balance: $0.00
+02/10/2020	08:47:41 AM	GIVE CHANGE: $1.35		Balance: $0.00
+02/10/2020	08:47:41 AM	GIVE CHANGE: $2.40		Balance: $0.00
+02/10/2020	08:47:41 AM	GIVE CHANGE: $2.45		Balance: $0.00
+02/10/2020	08:47:41 AM	GIVE CHANGE: $1.00		Balance: $0.00
+02/10/2020	08:47:41 AM	GIVE CHANGE: $1.05		Balance: $0.00
+02/10/2020	08:47:41 AM	GIVE CHANGE: $3.00		Balance: $0.00

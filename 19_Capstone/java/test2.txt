@@ -1,0 +1,4 @@
+A1|Potato Crisps|3.05|Chip
+B4|Crunchie|1.75|Candy
+C1|Cola|1.25|Drink
+D4|Triplemint|0.75|Gum
